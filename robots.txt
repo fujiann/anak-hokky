@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fujiann.github.io/anak-hokky/sitemap.xml
